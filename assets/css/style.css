@@ -988,6 +988,9 @@
     .pt_10_md{
         padding-top: 10px;
     }
+    .align_item_center_md{
+        align-items: center;
+    }
 }
 
 
