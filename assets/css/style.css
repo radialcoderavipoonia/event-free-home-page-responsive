@@ -1058,10 +1058,10 @@
         --fs-xl: 36px;
         --fs-lg: 24px;
         --fs-md: 22px;
-        --fs-sm: 10px;
+        --fs-sm: 12px;
         --fs-xsm: 18px;
         --fs-xxsm: 11px;
-        --fs-xxxsm: 10px;
+        --fs-xxxsm: 11px;
         --fs-xxxxsm: 12px;
 
         /* font weight  */
@@ -1182,6 +1182,12 @@
     }
     .pt_10_xsm{
         padding-top: 10px;
+    }
+    .pt_30_xsm{
+        padding-top: 30px;
+    }
+    .p_10_20_xsm{
+        padding: -10px 20px !important;
     }
 
 }
