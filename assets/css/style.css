@@ -45,6 +45,9 @@
 .f_dir_row {
     flex-direction: row;
 }
+.justify_cont_end{
+    justify-content: end;
+}
 
 
 :root {
